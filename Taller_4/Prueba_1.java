@@ -1,6 +1,6 @@
 package Taller_4;
 
-public class Prueba {
+public class Prueba_1 {
         public static void main(String[] args) {
 
             Estudiante estudiante1 = new Estudiante("Mery", 21, 4.5);
